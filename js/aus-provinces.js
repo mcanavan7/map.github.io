@@ -1,6 +1,6 @@
+const COMMUNES_DATA = 
 {
     "type": "FeatureCollection",
-    "name": "australia_provinces",
     "features": [{
             "type": "Feature",
             "geometry": {
