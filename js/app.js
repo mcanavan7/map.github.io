@@ -14,7 +14,7 @@
 // ---- Configuration ----
 const MAP_CENTER = [-21.5, 165.5];
 const MAP_ZOOM = 8;
-const GEOJSON_URL = "data/aus-provinces.geojson";
+const GEOJSON_URL = "data/nc-communes.geojson";
 const OFFLINE_TILE =
   "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/wIAAgUBBu/q6QAAAABJRU5ErkJggg==";
 
